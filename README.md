@@ -212,3 +212,4 @@
 + Flow Problems
 - Crea un programa que resuelva un problema de ruta más corta en un grafo dirigido ponderado. Puedes usar el algoritmo de Dijkstra para encontrar la ruta más corta entre un vértice de origen y todos los demás vértices. Además, puedes agregar la capacidad de leer y escribir gráficos desde y hacia un archivo y de imprimir la ruta más corta y la distancia para cada vértice en la consola.
 - Crea un programa que resuelva el problema de flujo máximo en un grafo dirigido ponderado. Puedes usar el algoritmo de Ford-Fulkerson o el algoritmo de Edmonds-Karp para encontrar el flujo máximo entre dos vértices. Además, puedes agregar la capacidad de leer y escribir gráficos desde y hacia un archivo y de imprimir el flujo máximo y la ruta correspondiente en la consola.
+- - -
